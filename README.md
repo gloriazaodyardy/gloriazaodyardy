@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 # 💫About Me :
-🔧 I'm working on responsive website portofolios
-🔭 I'm looking for a mentor and fullstack development collaboration 
-🤔 I’m looking for help with javascript, JS frameworks, SEO and client-server optimization
-🌱 I'm currently learning Javascript, Typescript, and Vue
-💬 Ask me about anything :D
+- 🔧 I'm working on responsive website portofolios
+- 🔭 I'm looking for a mentor and fullstack development collaboration 
+- 🤔 I’m looking for help with javascript, JS frameworks, SEO and client-server optimization
+- 🌱 I'm currently learning Javascript, Typescript, and Vue
+- 💬 Ask me about anything :D
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gloriazaodyardy) 
