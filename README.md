@@ -5,10 +5,8 @@
 - 🔭 I'm looking for a mentor and fullstack development collaboration 
 - 🤔 I’m looking for help with javascript, JS frameworks, SEO and client-server optimization
 - 🌱 I'm currently learning Javascript, Typescript, and Vue
-- 💬 Ask me about anything :D
-- 🔍 My earlier or other works and history are available at [@Yemima20](https://github.com/Yemima20)
-  
-Feel free to explore both profiles!
+- 💬 Ask me about anything related to web development and network
+- 🔍 My earlier or other works are available at [@Yemima20](https://github.com/Yemima20). Feel free to explore both profiles!
 
 ## 🌐Socials
 
