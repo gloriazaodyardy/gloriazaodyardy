@@ -1,38 +1,51 @@
-<h1 align="center">📈 Gloriaza's Dev Metrics</h1>
+# Gloriaza Odyardy
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=gloriazaodyardy&color=brightgreen&style=flat-square&label=Profile+Views)
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=gloriazaodyardy&color=brightgreen&style=flat-square&label=Profile+Views)
+
+![Icon](https://img.icons8.com/?size=100&id=NVolzRgiQwwC&format=png&color=000000) *Currently working on getting network certification*
+
+## 🛠️ What I Use
+
+<div>
+  <img src="https://img.shields.io/badge/-Google%20Workspace-333?style=flat-square&logo=googleworkspace&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Libre%20Office-333?style=flat-square&logo=libreoffice&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Mikrotik-333?style=flat-square&logo=mikrotik&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-WinBox-333?style=flat-square&logo=winbox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VirtualBox-333?style=flat-square&logo=virtualbox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-333?style=flat-square&logo=ciscopackettracer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Baserow-333?style=flat-square&logo=baserow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Markdown-333?style=flat-square&logo=markdown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-TailwindCSS-333?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bun-333?style=flat-square&logo=bun&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-AnyDesk-333?style=flat-square&logo=anydesk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ollama-333?style=flat-square&logo=ollama&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Pi-333?style=flat-square&logo=pi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Obsidian-333?style=flat-square&logo=obsidian&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Jira-333?style=flat-square&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ClickUp-333?style=flat-square&logo=clickup&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Notion-333?style=flat-square&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-TickTick-333?style=flat-square&logo=ticktick&logoColor=white"/>
+</div>
+
+## 📊 At a Glance
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gloriazaodyardy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gloriazaodyardy&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriazaodyardy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
-## 📅 Contribution Activity
+## 📬 Get in Touch
 
-<div align="center">
+I'm open to new opportunities. Reach me here:
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gloriazaodyardy&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/gloriazaodyardy)
-
-</div>
-
-## 🛠️ What I Use
-
-![AnyDesk](https://img.shields.io/badge/AnyDesk-333?style=for-the-badge&logo=anydesk&logoColor=white) ![Baserow](https://img.shields.io/badge/Baserow-333?style=for-the-badge&logo=baserow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-333?style=for-the-badge&logo=microsoftoffice&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-333?style=for-the-badge&logo=googleworkspace&logoColor=white) ![Libre Office](https://img.shields.io/badge/Libre%20Office-333?style=for-the-badge&logo=libreoffice&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-333?style=for-the-badge&logo=obsidian&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-333?style=for-the-badge&logo=jira&logoColor=white) ![Clickup](https://img.shields.io/badge/Clickup-333?style=for-the-badge&logo=clickup&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-333?style=for-the-badge&logo=notion&logoColor=white) ![TickTick](https://img.shields.io/badge/TickTick-333?style=for-the-badge&logo=ticktick&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-333?style=for-the-badge&logo=ollama&logoColor=white) ![Pi](https://img.shields.io/badge/Pi-333?style=for-the-badge&logo=pi&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-333?style=for-the-badge&logo=virtualbox&logoColor=white) ![WinBox](https://img.shields.io/badge/WinBox-333?style=for-the-badge&logo=winbox&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-333?style=for-the-badge&logo=ciscopackettracer&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-333?style=for-the-badge&logo=canva&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-333?style=for-the-badge&logo=markdown&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white) ![tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwind&logoColor=white) ![bun](https://img.shields.io/badge/bun-333?style=for-the-badge&logo=bun&logoColor=white)
-
-## 🌐 Find Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gloriazalawrance@gmailcom) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gloriazaodyardy)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gloriazalawrance@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gloriazaodyardy)
 
 <!-- **gloriazaodyardy/gloriazaodyardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
