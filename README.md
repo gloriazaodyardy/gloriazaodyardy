@@ -1,22 +1,40 @@
-# Hi there 👋
+<h1 align="center">📈 Gloriaza's Dev Metrics</h1>
 
-# 💫 About Me:
-<br>🔧 I'm working on responsive website portofolios<br>🔭 I'm looking for a mentor and fullstack development collaboration<br>🤔 I’m looking for help with javascript, JS frameworks, SEO, and client-server optimization<br>🌱 I'm currently learning Javascript, Typescript, and Vue<br>💬 Ask me about anything related to web development and network<br>🔍 My earlier or other works are available at [@Yemima20](https://github.com/Yemima20). Feel free to explore both profiles!
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=gloriazaodyardy&color=brightgreen&style=flat-square&label=Profile+Views)
+</p>
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gloriazaodyardy) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gloriazaodyardy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=#00DC82) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gloriazaodyardy&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gloriazaodyardy&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriazaodyardy&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gloriazaodyardy&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**gloriazaodyardy/gloriazaodyardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gloriazaodyardy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+## 📅 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gloriazaodyardy&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/gloriazaodyardy)
+
+</div>
+
+## 🛠️ What I Use
+
+![AnyDesk](https://img.shields.io/badge/AnyDesk-333?style=for-the-badge&logo=anydesk&logoColor=white) ![Baserow](https://img.shields.io/badge/Baserow-333?style=for-the-badge&logo=baserow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-333?style=for-the-badge&logo=microsoftoffice&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-333?style=for-the-badge&logo=googleworkspace&logoColor=white) ![Libre Office](https://img.shields.io/badge/Libre%20Office-333?style=for-the-badge&logo=libreoffice&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-333?style=for-the-badge&logo=obsidian&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-333?style=for-the-badge&logo=jira&logoColor=white) ![Clickup](https://img.shields.io/badge/Clickup-333?style=for-the-badge&logo=clickup&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-333?style=for-the-badge&logo=notion&logoColor=white) ![TickTick](https://img.shields.io/badge/TickTick-333?style=for-the-badge&logo=ticktick&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-333?style=for-the-badge&logo=ollama&logoColor=white) ![Pi](https://img.shields.io/badge/Pi-333?style=for-the-badge&logo=pi&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-333?style=for-the-badge&logo=virtualbox&logoColor=white) ![WinBox](https://img.shields.io/badge/WinBox-333?style=for-the-badge&logo=winbox&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-333?style=for-the-badge&logo=ciscopackettracer&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-333?style=for-the-badge&logo=canva&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-333?style=for-the-badge&logo=markdown&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white) ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white) ![tailwind](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwind&logoColor=white) ![bun](https://img.shields.io/badge/bun-333?style=for-the-badge&logo=bun&logoColor=white)
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gloriazalawrance@gmailcom) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gloriazaodyardy)
+
+</div>
+
+<!-- **gloriazaodyardy/gloriazaodyardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
